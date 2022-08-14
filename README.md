@@ -7,3 +7,7 @@ Using the feature built into macos you can bring back the old features and **con
 ## Install
 1. Copy the "com.local.KeyRemapping.plist" to "~/Library/LaunchAgents"
 2. Reboot
+
+### Credit
+https://www.reddit.com/r/MacOS/comments/jy5ry8/m1_macbook_air_keysshortcut_for_keyboard/
+https://github.com/amarsyla/hidutil-key-remapping-generator/blob/master/src/helpers/keys.js
